@@ -4,6 +4,7 @@ Built a model which can perform on train dataset and can predict that the loan s
 
 
 Libraries used:
+
 pandas
 numpy
 matplotlib.pyplot
@@ -14,6 +15,7 @@ sklearn.metrics
 sklearn.tree etc.
 
 ML models used:
+
 Logistic Regression
 Decision Tree Classifier
 Random Forest Classifier
