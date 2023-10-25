@@ -13,7 +13,9 @@ Libraries used:
 <br>•	sklearn.metrics</br>
 <br>•	sklearn.tree etc</br>
 
+
 ML models used:
+
 <br>•	Logistic Regression</br>
 <br>•	Decision Tree Classifier</br>
 <br>•	Random Forest Classifier</br>
