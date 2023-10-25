@@ -5,7 +5,7 @@ Built a model which can perform on train dataset and can predict that the loan s
 
 #Libraries used:
 
-<br>pandas<\br>
+pandas<
 numpy
 matplotlib.pyplot
 seaborn
