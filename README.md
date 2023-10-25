@@ -11,16 +11,29 @@ To view the interactive version of the file , visit https://nbviewer.org/github/
 
 
 
-#Libraries used:
+Libraries used:
 
-pandas<
+pandas
+
 numpy
+
 matplotlib.pyplot
+
 seaborn
+
 scipy.stats
+
 sklearn.model_selection
+
 sklearn.metrics
+
 sklearn.tree etc.
+
+
+
+
+
+
 
 ML models used:
 
