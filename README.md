@@ -7,9 +7,15 @@ Built a model which can perform on train dataset and can predict that the loan s
 Libraries used:
 
 <br>•	Pandas</br>
+<br>•	Warnings</br>
 <br>•	seaborn</br>
+<br>•	Numpy</br>
+<br>• sklearn.preprocessing</br>
+<br>• sklearn.model_selection</br>
 <br>•	sklearn.metrics</br>
-<br>•	sklearn.tree etc</br>
+<br>• sklearn.linear_model</br>
+<br>•	sklearn.tree</br>
+<br>•sklearn.ensemble</br>
 <br></br>
 
 
