@@ -24,3 +24,6 @@ ML models used:
 <br>•	Logistic Regression</br>
 <br>•	Decision Tree Classifier</br>
 <br>•	Random Forest Classifier</br>
+
+
+Interactive version of this file can be viewed at : - https://nbviewer.org/github/SLaha2209/Loan_Prediction/blob/main/Loan_Prediction_ML_Project.ipynb
